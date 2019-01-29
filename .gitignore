@@ -6,5 +6,8 @@
 # Module directory
 .terraform/
 
+#Graphs
+graph.*
+
 .DS_Store
 .idea
